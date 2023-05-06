@@ -1,4 +1,4 @@
-# LoginRegister
+# Login & Register
 
 .net c#
-Authentication
+Authentication with sql server
